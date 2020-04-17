@@ -9,10 +9,10 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
-  featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  siteName: 'Elevate English',
+  tagline: 'Learn to Speak English Naturally',
+  featureImage: '/uploads/home.png',
+  logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -23,23 +23,27 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
+      name: 'Private Lessons',
+        link: 'https://www.italki.com/englishwithanne',
+        target: '_blank'
     },
     {
-      name: 'Categories',
+      name: 'Podcast',
+      link: '/podcast'
+    },
+    {
+      name: 'Blog',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'YouTube',
+      link: 'https://www.youtube.com/channel/UCslgL5Q4nY0dxWJmFh4CVUw/featured',
       target: '_blank'
-    },
+    }, 
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
+      name: 'Contact',
+      link: '/contact'
+    },
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
