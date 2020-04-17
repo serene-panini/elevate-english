@@ -21,11 +21,9 @@
               <li>Regular Practice</li>
             </ol>
           </p>
-
           <p>
             <strong>Read full post to learn more about the Elevate Method</strong> 
           </p>
-
           <div class="tile is-ancestor">
             <div class="tile is-parent">
               <article class="tile is-child box">
@@ -57,7 +55,7 @@
                 Podcast
               </p>
               <p class="subtitle">
-               Interesting topics (choose slow or fast speaking speed) with full transcripts
+                Interesting topics (choose slow or fast speaking speed) with full transcripts
               </p>
               <img src="../assets/uploads/podcast-tile.png" />
             </article>

@@ -24,8 +24,8 @@ export default {
     },
     {
       name: 'Private Lessons',
-        link: 'https://www.italki.com/englishwithanne',
-        target: '_blank'
+      link: 'https://www.italki.com/englishwithanne',
+      target: '_blank'
     },
     {
       name: 'Podcast',
@@ -43,7 +43,7 @@ export default {
     {
       name: 'Contact',
       link: '/contact'
-    },
+    }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
