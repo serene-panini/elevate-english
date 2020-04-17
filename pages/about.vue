@@ -45,7 +45,7 @@
                 </p>
               </article>
             </div>
-          <quote-card />
+          <quote-card/>
         </div>
 
         <div class="tile is-ancestor">
