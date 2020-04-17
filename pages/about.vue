@@ -7,18 +7,24 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>How can I learn to actually <i>speak</i> English?</h3>
+          <p>
+            Hi, I'm Anne. I created Elevate English after hundreds of students asked me this question. I can read, write and understand English, but I always feel blocked when speaking. What should I do? I developed a method to help English learners at all levels improve their speaking and overall language skills. This method is based on theories from psycholinguistics, learning psychology, and my experience as an ESL teacher.
+          </p>
+          <h3>The Elevate Method</h3>
+          <p class="subtitle">
+            <ol>
+              <li>Learn basic words and grammar</li>
+              <li>Input: Listening and Reading</li>
+              <li>Output: Speaking and Writing</li>
+              <li>Regular Practice</li>
+            </ol>
+          </p>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Read full post to learn more about the Elevate Method
             </strong>
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
+          <br/>
 
           <h3>Another Fake Heading</h3>
           <p>
