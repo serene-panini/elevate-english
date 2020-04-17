@@ -24,7 +24,7 @@
             <strong>
               Read full post to learn more about the Elevate Method
             </strong>
-          <br/>
+          </p>
 
           <h3>Another Fake Heading</h3>
           <p>
