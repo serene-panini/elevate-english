@@ -2,84 +2,84 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      image="/uploads/home.png"
+      subtitle="Example About Page"
+      image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>How can I learn to actually <i>speak</i> English?</h3>
+          <h3>Fake Heading</h3>
           <p>
-            Hi, I'm Anne. I created Elevate English after hundreds of students asked me this question. I can read, write and understand English, but I always feel blocked when speaking. What should I do? I developed a method to help English learners at all levels improve their speaking and overall language skills. This method is based on theories from psycholinguistics, learning psychology, and my experience as an ESL teacher.
+            <strong>
+              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+            </strong>
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
+            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
+            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
+            ratione rem repudiandae sit!
           </p>
 
-          <h3>The Elevate Method</h3>
-          <p class="subtitle">
-            <ol>
-              <li>Learn basic words and grammar</li>
-              <li>Input: Listening and Reading</li>
-              <li>Output: Speaking and Writing</li>
-              <li>Regular Practice</li>
-            </ol>
-          </p>
+          <h3>Another Fake Heading</h3>
           <p>
-            <strong>Read full post to learn more about the Elevate Method</strong> 
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
+            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
+            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
+            ratione rem repudiandae sit!
           </p>
-          <div class="tile is-ancestor">
-            <div class="tile is-parent">
-              <article class="tile is-child box">
-                <img src="../assets/uploads/contact.jpg" height="250" />
-             </article>
-            </div>
-            <div class="tile is-parent">
-              <article class="tile is-child box">
-                <p class="title">
-                  About Anne
-                </p>
-                <p class="subtitle">
-                 BA Psychology, University of British Colombia
-                </p>
-                <p>
-                  I grew up in Seattle, in the United States. After high school I moved to Vancouver, Canada to study Psychology. I've loved traveling and learning languages since I was young. I got my certificate in Teaching English as a Foreign Language (TEFL) after graduation, and started traveling the world while teaching English. Six months ago I moved to France. I studied French in high school, but I didn't feel like I learned the language well with only grammar and vocabulary. Instead, I improved my French naturally by listening to podcasts, watching YouTube videos and TV shows, and by talking to new friends French, even though it was scary at first. I want to help my English students in the same way. Even if they can't move to an English speaking country, my podcasts, YouTube channel, and blog posts can help them learn English naturally at home.
-                </p>
-              </article>
-            </div>
-          </div>
-          <br/>
           <quote-card />
+          <h3>Still More Fake Content</h3>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
+            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
+            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
+            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
+            adipisicing elit.
+            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
+            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
+            dicta ipsa iste modi provident, quod, similique veritatis.
+          </p>
         </div>
 
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Podcast
+                Cool Stuff We Do
               </p>
               <p class="subtitle">
-                Interesting topics (choose slow or fast speaking speed) with full transcripts
+                Sooo Cool
               </p>
-              <img src="../assets/uploads/podcast-tile.png" />
+              <figure class="image is-1by1">
+                <opti-image width="500" height="500" />
+              </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                YouTube
+                Other Cool Things
               </p>
               <p class="subtitle">
-                Language learning tips, idiomatic expressions, and other fun English content
+                Just as cool
               </p>
-              <img src="../assets/uploads/youtube-tile.png" /> 
+              <figure class="image is-1by1">
+                <opti-image width="500" height="500" />
+              </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Blog
+                All the cool
               </p>
               <p class="subtitle">
-                Read full length posts on interesting topics and language learning strategies
+                that is all
               </p>
-              <img src="../assets/uploads/blog-tile.png" />
+              <figure class="image is-1by1">
+                <opti-image width="500" height="500" />
+              </figure>
             </article>
           </div>
         </div>
