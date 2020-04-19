@@ -46,8 +46,10 @@
               </p>
             </article>
           </div>
+          <quote-card/>
         </div>
-        <quote-card/>
+        <br/>
+        
         
         <div class="tile is-ancestor">
           <div class="tile is-parent">
