@@ -30,7 +30,9 @@
         <div class="title is-ancestor">
           <div class="title is-parent">
             <article class="title is-child box">
-              <img src="../assets/uploads/contact.jpg" height="100"/>
+              <figure class="image is-1by1">
+                <img src="../assets/uploads/contact.jpg" width="500" height="500" />
+              </figure>
             </article>
           </div>
           <div class="title is-parent">
