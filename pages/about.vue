@@ -26,6 +26,7 @@
             </strong>
           </p>
         </div>
+        <br/>
 
         <div class="content">
           <h3>About Anne</h3>
@@ -33,36 +34,15 @@
             BA Psychology, University of British Colombia
           </p>
           <img src="../assets/uploads/contact.jpg" width="500" height="500" />
+          <br/>
           <p>
             I grew up in Seattle, in the United States. After high school I moved to Vancouver, Canada to study Psychology. I've loved traveling and learning languages since I was young. I got my certificate in Teaching English as a Foreign Language (TEFL) after graduation, and started traveling the world while teaching English. Six months ago I moved to France. I studied French in high school, but I didn't feel like I learned the language well with only grammar and vocabulary. Instead, I improved my French naturally by listening to podcasts, watching YouTube videos and TV shows, and by talking to new friends French, even though it was scary at first. I want to help my English students in the same way. Even if they can't move to an English speaking country, my podcasts, YouTube channel, and blog posts can help them learn English naturally at home.
           </p>
         </div>
         
-
-        <div class="title is-ancestor">
-          <div class="title is-parent">
-            <article class="title is-child box">
-              <figure class="image is-1by1">
-                <img src="../assets/uploads/contact.jpg" width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="title is-parent">
-            <article class="title is-child box">
-              <p class="title">
-                About Anne
-              </p>
-              <p class="subtitle">
-                 BA Psychology, University of British Colombia
-              </p>
-              <p>
-                I grew up in Seattle, in the United States. After high school I moved to Vancouver, Canada to study Psychology. I've loved traveling and learning languages since I was young. I got my certificate in Teaching English as a Foreign Language (TEFL) after graduation, and started traveling the world while teaching English. Six months ago I moved to France. I studied French in high school, but I didn't feel like I learned the language well with only grammar and vocabulary. Instead, I improved my French naturally by listening to podcasts, watching YouTube videos and TV shows, and by talking to new friends French, even though it was scary at first. I want to help my English students in the same way. Even if they can't move to an English speaking country, my podcasts, YouTube channel, and blog posts can help them learn English naturally at home.
-              </p>
-            </article>
-          </div>
-        </div>
         <br/>
         <quote-card/>
+        <br/>
         
         
         <div class="tile is-ancestor">
