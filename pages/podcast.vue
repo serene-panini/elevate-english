@@ -1,85 +1,61 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      title="Podcast"
+      image="/uploads/podcast.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Elevate English Podcast</h3>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
+            <strong>This podcast is for intermediate English learners who want something interesting to listen to.</strong>
+          </p>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            I noticed that there are a lot of apps, books, and exercises for beginners, for people who are just starting to learn English. And for people who have an advanced level, they can read, watch, or listen to English content for native speakers, like American TV shows or British newspapers, because they can already understand it. 
           </p>
-
-          <h3>Another Fake Heading</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            But between those two groups, there are people who have an intermediate level who can’t always understand traditional English media. They find that native speakers talk too fast for example, or they use complicated words and expressions. This podcast will help you learn English through listening to lots of different interesting subjects. We won’t learn grammar rules or memorize lists of words. Instead, I will simply speak to you about things like travel, culture, history, and psychology, my favorite subject. 
           </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            I want your opinions! If there is a topic you want me to make an episode about, use the <a href="/contact"> Contact</a> form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
           </p>
+         <quote-card />
         </div>
 
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Podcast
               </p>
               <p class="subtitle">
-                Sooo Cool
+               Interesting topics (choose slow or fast speaking speed) with full transcripts
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/podcast-tile.png" />
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                YouTube
               </p>
               <p class="subtitle">
-                Just as cool
+                Language learning tips, idiomatic expressions, and other fun English content
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/youtube-tile.png" /> 
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Blog
               </p>
               <p class="subtitle">
-                that is all
+                Read full length posts on interesting topics and language learning strategies
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/blog-tile.png" />
             </article>
           </div>
         </div>
@@ -95,7 +71,7 @@
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
+import QuoteCard from '~/components/cards/QuoteCardTwo'
 export default {
   head() {
     return {
