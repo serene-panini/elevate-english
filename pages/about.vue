@@ -49,40 +49,34 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Podcast
               </p>
               <p class="subtitle">
-                Sooo Cool
+                Interesting topics (choose slow or fast speaking speed) with full transcripts
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/podcast-tile.png" />
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                YouTube
               </p>
               <p class="subtitle">
-                Just as cool
+                Language learning tips, idiomatic expressions, and other fun English content
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/youtube-tile.png" />
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Blog
               </p>
               <p class="subtitle">
-                that is all
+                Read full length posts on interesting topics and language learning strategies
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <img src="../assets/uploads/blog-tile.png" />
             </article>
           </div>
         </div>
