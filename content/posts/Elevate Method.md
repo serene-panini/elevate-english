@@ -2,7 +2,7 @@
 title: How to Learn English Naturally in 4 Steps
 subtitle: The Elevate Method
 category:
-  - Language Tips
+  - Language Learning Tips
 author: Anne G.
 date: 2020-04-19
 featureImage: /uploads/blog/learn-english.jpg
