@@ -20,6 +20,13 @@ I call this method "learning naturally" because it is similar to how we learn ou
 
 
 ### The Elevate Method
+ 1. You probably missing something big
+     - That isn't really important though
+     - I don't mean to pry
+ 2. You might have just not indented enough times
+     - That seems more likely
+- This helps, right?
+
 1) Learn basic words and grammar
 When we learn languages as an adult, it is still necessary to study some basic vocabulary and grammar. But after a student can understand some spoken and written English, it is important to move on to the next steps to keep improving.
 *Often taught at school
