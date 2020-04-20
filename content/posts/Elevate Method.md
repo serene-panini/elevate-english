@@ -32,14 +32,14 @@ You must practice listening and reading content that is one level higher than yo
 *[News and current events](https://engoo.com/app/daily-news) for English learners
 *Read [simple books](https://kierandonaghy.com/seven-best-simple-novels-english-language-students/) for English learners
 
-3)Output: Speaking and Writing
+3) Output: Speaking and Writing
 While listening and reading can help you learn a language, you still need practice speaking to become fluent.
 *Practice speaking or texting with a tandem partner or other students learning English
 *Join English Facebook groups or discussion forums to practice writing
 *Take [private lessons](https://www.italki.com/englishwithanne) with a native speaker (mine start at $6 USD!)
 *Work on overcoming your fear of speaking. Everyone makes mistakes, that's how we learn!
 
-4)Regular Practice
+4) Regular Practice
 *Make learning English a fun daily habit
 *Take conversation classes or speak with a language partner at least once a week, but more often if you can.
 *Consume as much English content as you can, but only about things you are interested in! (TV shows, movies, YouTube, podcasts, blog posts, articles, books, video games, etc.)
