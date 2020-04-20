@@ -22,7 +22,7 @@
           </p>
           <p>
             <strong>
-              Read <a href="../content/posts/elevate-method.md">full post</a> to learn more about the Elevate Method 
+              Read <a href="https://inspiring-thompson-1e442b.netlify.app/elevate-method/" target="_blank">full post</a> to learn more about the Elevate Method 
             </strong>
           </p>
         </div>
