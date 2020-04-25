@@ -53,7 +53,7 @@
                 Podcast
               </p>
               <p class="subtitle">
-                Interesting topics (choose slow or fast speaking speed) with full transcripts
+                Interesting topics spoken at a slower speed, and full transcripts for each episode 
               </p>
               <img src="../assets/uploads/podcast-tile.png" />
             </article>

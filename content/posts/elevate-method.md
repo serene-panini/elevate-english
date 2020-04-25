@@ -22,15 +22,15 @@ I call this method "learning naturally" because it is similar to how we learn ou
 ### The Elevate Method
 
   1. **Learn basic words and grammar**
-  When we learn languages as an adult, it is still necessary to study some basic vocabulary and grammar. But after a student can understand some spoken and written English, it is important to move on to the next steps to keep improving.
+      - When we learn languages as an adult, it is still necessary to study some basic vocabulary and grammar. But after a student can understand some spoken and written English, it is important to move on to the next steps to keep improving.
       - Often taught at school
       - Language learning apps like Duolingo (free!) Babel, etc.
       - [Basic English Grammar](https://www.italki.com/englishwithanne) private lessons
 
 
   2. **Input: Listening and Reading**
-  You must practice listening and reading content that is one level higher than your current level of English, so you learn new words and expressions. If you are not sure what your level is, you can take this free [Level Test](https://learnenglish.britishcouncil.org/online-english-level-test) by the British Council.
-      - Elevate English Podcast with transcriptions (slow or normal speaking speed available)
+      - You must practice listening and reading content that is one level higher than your current level of English, so you learn new words and expressions. If you are not sure what your level is, you can take this free [Level Test](https://learnenglish.britishcouncil.org/online-english-level-test) by the British Council.
+      - Elevate English Podcast with transcriptions
       - [News and current events](https://engoo.com/app/daily-news) for English learners
       - Read [simple books](https://kierandonaghy.com/seven-best-simple-novels-english-language-students/) for English learners
 

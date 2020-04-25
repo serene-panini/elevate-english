@@ -23,43 +23,6 @@
          <quote-card />
         </div>
 
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Podcast
-              </p>
-              <p class="subtitle">
-               Interesting topics (choose slow or fast speaking speed) with full transcripts
-              </p>
-              <img src="../assets/uploads/podcast-tile.png" />
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                YouTube
-              </p>
-              <p class="subtitle">
-                Language learning tips, idiomatic expressions, and other fun English content
-              </p>
-              <img src="../assets/uploads/youtube-tile.png" /> 
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Blog
-              </p>
-              <p class="subtitle">
-                Read full length posts on interesting topics and language learning strategies
-              </p>
-              <img src="../assets/uploads/blog-tile.png" />
-            </article>
-          </div>
-        </div>
-      </template>
-
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
           Latest Posts
