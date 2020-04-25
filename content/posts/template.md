@@ -1,6 +1,6 @@
 ---
 title: Template Blog Post
-subtitle: 
+subtitle: subtitle
 category:
   - Travel
 author: Anne G.
