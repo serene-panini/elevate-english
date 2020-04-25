@@ -33,7 +33,7 @@
           <p class="subtitle">
             BA Psychology, University of British Colombia
           </p>
-          <img src="../assets/uploads/contact.jpg" width="250" height="250" />
+          <img src="../assets/uploads/contact.jpg" width="35%" height="35%" />
           <br/>
           <br/>
           <p>
