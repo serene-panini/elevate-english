@@ -19,15 +19,6 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
-    },
-    {
-      name: 'Private Lessons',
-      link: 'https://www.italki.com/englishwithanne',
-      target: '_blank'
-    },
-    {
       name: 'Podcast',
       link: '/podcast'
     },
@@ -39,6 +30,15 @@ export default {
       name: 'YouTube',
       link: 'https://www.youtube.com/channel/UCslgL5Q4nY0dxWJmFh4CVUw/featured',
       target: '_blank'
+    },
+    {
+      name: 'Private Lessons',
+      link: 'https://www.italki.com/englishwithanne',
+      target: '_blank'
+    },
+    {
+      name: 'About',
+      link: '/about'
     }, 
     {
       name: 'Contact',
