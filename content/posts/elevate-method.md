@@ -39,7 +39,7 @@ I call this method "learning naturally" because it is similar to how we learn ou
       - While listening and reading can help you learn a language, you still need practice speaking to become fluent
       - Practice speaking or texting with a tandem partner or other students learning English
       - Join English Facebook groups or discussion forums to practice writing
-      - Take [private lessons](https://www.italki.com/englishwithanne) with a native speaker (mine start at $6 USD!)
+      - Take [private lessons](https://www.italki.com/englishwithanne) with a native speaker (mine start at $8 USD!)
       - Work on overcoming your fear of speaking. Everyone makes mistakes, that's how we learn!
 
 
