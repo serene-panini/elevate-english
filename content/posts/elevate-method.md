@@ -15,7 +15,7 @@ Many students have this problem because they studied English in school or from g
 
 I developed The Elevate Method to help English learners at all levels improve their speaking and overall language skills naturally. This method is based on theories from psycholinguistics, learning psychology, and my experience as an ESL teacher. It has four steps, which I will describe below. 
 
-I call this method "learning naturally" because it is similar to how we learn our native language as children: through listening and others correcting us. This kind of learning is based on language exposure (aquisition) instead of direct teaching (like in school).
+I call this method "learning naturally" because it is similar to how we learn our native language as children: through listening and others correcting us. This kind of learning is based on language exposure (acquisition) instead of direct teaching (like in school).
 
 
 
