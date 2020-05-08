@@ -2,11 +2,13 @@
 title: Past Tense
 subtitle: Past Simple, Past Continuous, Past Perfect, Past Perfect Continous 
 category:
-  - Grammar
+  - Verb Tenses
+author: Anne G.
+date: 2020-05-07
 featureImage: /uploads/past.jpg
 ---
 
-##Past Simple
+## Past Simple
 - - -
 
 Signal Words
@@ -41,18 +43,25 @@ Question
 :   **Did** you guys **go** to that concert?
 
 _More Examples:_
+
 He **talked** to his friend.
+
 They **had** dinner at an Italian restaurant.
+
 She **did** the laundry last night.
+
 I **said** I'm sorry.
 
 _Practice Exercies_
+
 [Positive Statements](https://www.englisch-hilfen.de/en/exercises/tenses/simple_past_statements2.htm)
+
 [Negative Statements](https://www.englisch-hilfen.de/en/exercises/tenses/simple_past_negation_sentences.htm)
+
 [Questions](https://www.englisch-hilfen.de/en/exercises/questions/simple_past.htm)
 
 
-##Past Continuous
+## Past Continuous
 - - -
 
 Signal Words
@@ -85,15 +94,20 @@ Question
 :   **Was** he **helping** when you guys **were cooking** dinner?
 
 _More Examples_
+
 While we **were having** dinner the phone rang. (past continuous + past simple)
+
 Andrew **was** always **coming** to work late. (past repeated actions)
 
 _Practice Exercises_
+
 [Positive Statements](https://www.englisch-hilfen.de/en/exercises/tenses/past_progressive_statements.htm)
+
 [Negative Statments](https://www.englisch-hilfen.de/en/exercises/tenses/past_progressive_negation_sentences.htm)
+
 [Questions](https://www.englisch-hilfen.de/en/exercises/questions/past_progressive.htm)
 
-##Past Perfect
+## Past Perfect
 - - -
 
 Signal Words
@@ -127,12 +141,14 @@ Question
 :   **Had** they **been** friends before they started dating?
 
 _Tip_
+
 Try to picture the actions on a timeline. Which one happened further in the past? That one takes the past perfect.
 
 _Practice Exercises_
+
 [Mixed Sentences](https://www.englisch-hilfen.de/en/exercises/tenses/past_perfect_mix.htm)
 
-##Past Perfect Continuous
+## Past Perfect Continuous
 - - -
 
 Signal Words
@@ -166,7 +182,9 @@ Question
 :   **Had** they **been** playing football outside when the rain started?
 
 _Tip_
+
 This similar to the past perfect, but instead of two finished actions, one event is still in progress up until the other event starts.
 
 _Practice Exercises_
+
 [Mixed Sentences](https://www.englisch-hilfen.de/en/exercises/tenses/present_perfect_progressive_mix.htm)
