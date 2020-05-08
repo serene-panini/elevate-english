@@ -44,13 +44,13 @@ Question
 
 _More Examples:_
 
-He **talked** to his friend.
+- He **talked** to his friend.
 
-They **had** dinner at an Italian restaurant.
+- They **had** dinner at an Italian restaurant.
 
-She **did** the laundry last night.
+- She **did** the laundry last night.
 
-I **said** I'm sorry.
+- I **said** I'm sorry.
 
 _Practice Exercies_
 
@@ -95,9 +95,9 @@ Question
 
 _More Examples_
 
-While we **were having** dinner the phone rang. (past continuous + past simple)
+- While we **were having** dinner the phone rang. (past continuous + past simple)
 
-Andrew **was** always **coming** to work late. (past repeated actions)
+- Andrew **was** always **coming** to work late. (past repeated actions)
 
 _Practice Exercises_
 
