@@ -11,6 +11,8 @@ featureImage: /uploads/past.jpg
 ## Past Simple
 - - -
 
+![past simple diagram](/uploads/blog/past-simple.jpg)
+
 Signal Words
 
 :   yesterday
@@ -64,6 +66,8 @@ _Practice Exercies_
 ## Past Continuous
 - - -
 
+![past continuous diagram](/uploads/blog/past-cont.jpg)
+
 Signal Words
 
 :   while
@@ -110,6 +114,8 @@ _Practice Exercises_
 ## Past Perfect
 - - -
 
+![past perfect diagram](/uploads/blog/past-perf.jpg)
+
 Signal Words
 
 :   already
@@ -150,6 +156,8 @@ _Practice Exercises_
 
 ## Past Perfect Continuous
 - - -
+
+![past perfect continuous diagram](/uploads/blog/past-pc.jpg)
 
 Signal Words
 
