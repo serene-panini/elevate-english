@@ -11,7 +11,7 @@ featureImage: /uploads/past.jpg
 ## Past Simple
 - - -
 
-![past simple diagram](/uploads/blog/past-simple.jpg)
+![past simple diagram](/uploads/blog/past-simple.png)
 
 Signal Words
 
@@ -66,7 +66,7 @@ _Practice Exercies_
 ## Past Continuous
 - - -
 
-![past continuous diagram](/uploads/blog/past-cont.jpg)
+![past continuous diagram](/uploads/blog/past-cont.png)
 
 Signal Words
 
@@ -114,7 +114,7 @@ _Practice Exercises_
 ## Past Perfect
 - - -
 
-<img src="/uploads/blog/past-perf.jpg" width="35%" height="35%" />
+![past perfect diagram](/uploads/blog/past-perf.png)
 
 Signal Words
 
@@ -157,7 +157,7 @@ _Practice Exercises_
 ## Past Perfect Continuous
 - - -
 
-![past perfect continuous diagram](/uploads/blog/past-pc.jpg)
+![past perfect continuous diagram](/uploads/blog/past-pc.png)
 
 Signal Words
 
