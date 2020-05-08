@@ -1,6 +1,6 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="/uploads/literature.jpg" />
+    <site-hero title="Study with Elevate English" image="/uploads/literature.jpg" />
     <main-section theme="one-column">
       <categories-grid />
     </main-section>
