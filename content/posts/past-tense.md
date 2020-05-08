@@ -114,7 +114,7 @@ _Practice Exercises_
 ## Past Perfect
 - - -
 
-![past perfect diagram](/uploads/blog/past-perf.jpg)
+<img src="/uploads/blog/past-perf.jpg" width="35%" height="35%" />
 
 Signal Words
 
