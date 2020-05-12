@@ -13,7 +13,7 @@ Have you tried reading any books in English?
 
 Reading is a super effective way to improve your vocabulary. But, it can be incredibly frustrating if you start with a hard book. I’ve been there with French. One time I tried to read the classic “Le Comte de Monte-Cristo” but I had to get out my phone and translate a word every few lines! Not an enjoyable experience. The main problem is that classic, “literary” books are often written in really old-fashioned language. No one speaks like that in real life. 
 
-So put down the Dickens and Austen for now (though they are amazing, you should definitely read them someday!) I’m going to tell you about 10 great books for English learners. Simple language? Check. Interesting story? Check. Only for kids? Nope!
+So put down the Dickens and Austen for now (though they are amazing, you should definitely read them someday!) I’m going to tell you about five great books for English learners. Simple language? Check. Interesting story? Check. Only for kids? Nope!
 
 _English Reading Level: B2 and above. For A2-B1, try [short stories](https://learnenglish.britishcouncil.org/general-english/stories) and [daily news.](https://engoo.com/app/daily-news)_ 
 
