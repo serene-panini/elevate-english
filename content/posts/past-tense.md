@@ -4,7 +4,7 @@ subtitle: Past Simple, Past Continuous, Past Perfect, Past Perfect Continous
 category:
   - Verb Tenses
 author: Anne G.
-date: 2020-05-07
+date: 2020-07-5
 featureImage: /uploads/past.jpg
 ---
 
@@ -176,18 +176,18 @@ Structure
 
 Affirmative
 
-:   She **had been** working for years before she got a promotion.
-:   They'**d been** relaxing in the park when it started to rain.
+:   She **had been working** for years before she got a promotion.
+:   They'**d been relaxing** in the park when it started to rain.
 
 Negative
 
-:   He **hadn't been** running for long when he started to feel tired. 
-:   They **hadn't been** dating long when they decided to move in together.
+:   He **hadn't been running** for long when he started to feel tired. 
+:   They **hadn't been dating** long when they decided to move in together.
 
 Question
 
-:   **Had** you **been** studying a long time before you took the exam?
-:   **Had** they **been** playing football outside when the rain started?
+:   **Had** you **been studying** a long time before you took the exam?
+:   **Had** they **been playing** football outside when the rain started?
 
 _Tip_
 
