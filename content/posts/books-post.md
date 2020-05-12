@@ -1,10 +1,11 @@
+---
 title: 5 Great Books to Improve Your English
 subtitle:
 category:
   - Language Learning Tips
 author: Anne G.
 date: 2020-05-11
-featureImage: /uploads/books-thumbnail.png
+featureImage: /uploads/books.png
 ---
 
 > “A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” – George R.R. Martin (aka the guy who created Game of Thrones!)
