@@ -53,6 +53,7 @@ _Other uses_
 - Please **open** your book to page 57. (instructions)
 
 _Practice Exercies_
+
 [Positive Statements](https://www.englisch-hilfen.de/en/exercises/tenses/simple_present_statements.htm)
 
 [Negative Statements](https://www.englisch-hilfen.de/en/exercises/tenses/simple_present_negation_sentences.htm)
@@ -155,6 +156,7 @@ _More Examples_
 _Practice Exercises_
 
 [Mixed Sentences](https://www.englisch-hilfen.de/en/exercises/tenses/present_perfect_mix.htm)
+
 [Sentences with already and yet](https://www.englisch-hilfen.de/en/exercises/tenses/present_perfect_already_yet.htm)
 
 ## Present Perfect Continuous
