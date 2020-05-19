@@ -2,7 +2,7 @@
   <modal-overlay
     id="newsletter-modal"
     :title="title"
-    trigger-text="Get Started"
+    trigger-text="Subscribe to Newsletter"
     class="newsletter-modal"
   >
     <news-letter-form />
@@ -16,7 +16,7 @@ export default {
   computed: {
     title() {
       return (
-        this.$siteConfig.newsletter.heading || 'Get Started'
+        this.$siteConfig.newsletter.heading || 'Subscribe'
       )
     }
   }

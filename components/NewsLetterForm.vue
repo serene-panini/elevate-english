@@ -22,7 +22,7 @@
         </p>
         <div class="control">
           <button type="submit" class="button is-primary">
-            {{ $siteConfig.newsletter.btnText || 'Download Free eBook' }}
+            {{ $siteConfig.newsletter.btnText || 'Subscribe' }}
           </button>
         </div>
       </div>
