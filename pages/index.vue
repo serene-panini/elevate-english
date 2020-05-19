@@ -5,7 +5,7 @@
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
-        Subscribe To Newsletter
+        Get Started
       </button>
     </site-hero>
     <main-section theme="one-column">
