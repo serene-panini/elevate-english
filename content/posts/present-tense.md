@@ -8,8 +8,12 @@ date: 2020-06-14T19:59:59.000Z
 featureImage: /uploads/present.jpg
 ---
 
+_Tip: use [www.wordreference.com](https://www.wordreference.com/) to conjugate verbs or translate a tricky word._
+
 ## Present Simple
 - - -
+
+The present simple is used all the time in English, so it's an important tense to master. It's probably the first tense you learned in English, but it's good to review the different situations it's used in and the irregular verb forms.
 
 ![present simple diagram](/uploads/blog/present-simp.png)
 
@@ -35,7 +39,7 @@ Structure
 Affirmative
 
 :   I **drink** coffee every morning.
-:	They **do** their homework at 7pm. _(implies almost every night at 7pm)_
+:   They **do** their homework at 7pm. _(implies almost every night at 7pm)_
 
 Negative
 
@@ -62,6 +66,8 @@ _Practice Exercies_
 
 ## Present Continuous
 - - -
+
+The present continuous (sometimes called the present progressive) tense is really useful. It's the same for all verbs, so it's pretty easy to use!
 
 ![present continuous diagram](/uploads/blog/present-cont.png)
 
@@ -111,6 +117,8 @@ _Practice Exercises_
 ## Present Perfect
 - - -
 
+This tense is also fairly common in English conversation and writing. Using this tense correctly can make you sound much more natural. To read more about the difference between the present simple and the present perfect, see this [post.](https://www.perfect-english-grammar.com/present-perfect-or-past-simple.html)
+
 ![present perfect diagram](/uploads/blog/present-perf.png)
 
 Signal Words
@@ -130,7 +138,7 @@ Use
 
 Structure
 
-:   have/has + past participle
+:   have/has + [past participle](https://www.englisch-hilfen.de/en/grammar/unreg_verben1.htm)
 
 Affirmative
 
@@ -161,6 +169,8 @@ _Practice Exercises_
 
 ## Present Perfect Continuous
 - - -
+
+ This is not a very common tense, so often it's not taught in classes. But English speakers do use it, so it's good to understand what it means when you read or hear it.
 
 ![present perfect continuous diagram](/uploads/blog/present-pc.png)
 

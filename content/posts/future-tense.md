@@ -8,8 +8,12 @@ date: 2020-06-14T19:59:59.000Z
 featureImage: /uploads/ .jpg
 ---
 
+_Tip: use [www.wordreference.com](https://www.wordreference.com/) to conjugate verbs or translate a tricky word._
+
 ## Future Simple
 - - -
+
+The future simple is fairly easy to make, and it's very useful. English speakers use this tense (both the will and going to forms) often in everyday life, since it's used to talk about plans, thoughts, and beliefs about the future. This is an important tense to master as an intermediate learner.
 
 ![future simple diagram](/uploads/blog/future-simp.png)
 
@@ -82,38 +86,134 @@ _Practice Exercies_
 ## Future Continuous
 - - -
 
+The future continuous tense (sometimes called future progressive) isn't always taught in English classes but English speakers use it a lot. You will sound more natural if you learn how to use this tense correctly.
+
 ![future continuous diagram](/uploads/blog/future-cont.png)
 
 Signal Words
 
-:   
+:   General future words: tomorrow, next week/month/year, in 2025
 
 Use
 
-:   When an action is happening right now, at the moment of speaking.
+:   Describe an ongoing activity in the future
+:   Future as a matter of course: to talk about an action in the future that will happen if everything else goes as you expect. (The president **will be giving** a speech tomorrow.)
 
 Structure
 
-:   to be (am/are/is) + infinitive + ing
+:   will + be + infinitive + ing
 
 Affirmative
 
-:   I'**m drinking** coffee right now.
-:	They'**re doing** their homework at the moment. 
+:   He'**ll be staying** at my house tonight.
+:   They'**ll be doing** their homework after school.
 
 Negative
 
-:   She **isn't reading.**
-:   They **aren't living** in Thailand anymore.
+:   She **won't (will not) be playing basketball** next weekend.
+:   They **will not be living** in Thailand next year.
 
 Question
 
-:   **Are** you **doing** something right now?
-:   **Is** he **traveling** this week?
+:   **Will** you **be coming** to my party tomorrow night?
+:   **Will** he **be travelling** in August?
 
 _Other Uses_
 
-- She'**s visiting** her sister on Saturday. (fixed plans in the near future)
-- I'**m working** in Athens this month. (temporary actions)
+- I'**ll be waiting** when you arrive. (overlapping actions: with when + present simple)
+- At 7pm I'**ll be eating** dinner. (overlapping actions: time)
+
 
 _Practice Exercises_
+
+[Positive Statements](https://www.perfect-english-grammar.com/future-continuous-exercise-1.html)
+
+[Negative Statements](https://www.perfect-english-grammar.com/future-continuous-exercise-2.html)
+
+[Questions](https://www.perfect-english-grammar.com/future-continuous-exercise-3.html)
+
+## Future Perfect
+- - -
+
+The future perfect tense is only used in a few situations, but for advanced students it's good to know it. I suggest focusing on understanding the tense when you read or hear it. In conversation you can use the future simple or continuous instead.
+
+![future perfect diagram](/uploads/blog/future-perf.png)
+
+Signal Words
+
+:   by
+:   for
+
+Use
+
+:   To talk about an action that will finish before a certain time in the future (usually with "by")
+:   To describe how long, the duration of an action that started in the past, and will continue to a certain point in the future (usually with "for") Often used to make the 'how long', the duration an easier time to say.
+
+Structure
+
+:   will + have + [past participle](https://www.englisch-hilfen.de/en/grammar/unreg_verben1.htm)
+
+Affirmative
+
+:   She'**ll have (she will have) finished** her homework by 10pm this evening.
+:   On Tuesday, I'**ll have lived** here for one year.
+
+Negative
+
+:   They **won't have (will not have) finished cooking dinner** by the time the guests arrive.
+:   I **won't have worked** found a job before I graduate university.
+
+Question
+
+:   When **will** I **have finished** this book? (emphasizes the duration of time/specific date more than the simple future "When will I finish this book?")
+:   Do you think **he will have** finally **quit** his job by this time next year?
+
+_More Examples_
+
+- When we get married, I'**ll have known** Robert for four years.
+- At 4 o'clock, I'**ll have been** in this office for 24 hours.
+- By the time I'm sixty, I **will have retired.**
+
+_Practice Exercises_
+
+[Mixed Sentences](https://www.perfect-english-grammar.com/future-perfect-exercise-4.html)
+
+## Future Perfect Continuous
+- - -
+
+This tense isn't used very often in English and it's a little complicated. However, at advanced levels it's great to understand it. It has a very precise meaning, which can be useful.
+
+![future perfect continuous diagram](/uploads/blog/future-pc.png)
+
+Signal Words
+
+:   for + length of time
+:   when or by the time
+
+Use
+
+:   To show how long an action will continue for up to a certain time or action in the future.
+:   Just like with the future perfect, we can use this tense + a date for easier numbers.
+
+Structure
+
+:   will + have + been + infinitive + ing
+
+Affirmative
+
+:   In April, she **will have been teaching** for five years.
+:   By the time you arrive, we'**ll have been cooking** for hours!
+
+Negative
+
+:   He **will not have been studying** for long before he starts to get bored.
+:   They **won't have been waiting** outside when the train finally arrives.
+
+Question
+
+:   How long **will** they **have been travelling** by the time they finally come home?
+:   **Will** he **have been sleeping** by the time we finally get there?
+
+_Practice Exercises_
+
+[Mixed Sentences](https://www.perfect-english-grammar.com/future-perfect-continuous-exercise-4.html)

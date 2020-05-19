@@ -8,8 +8,12 @@ date: 2020-06-14T19:59:59.000Z
 featureImage: /uploads/past.jpg
 ---
 
+_Tip: use [www.wordreference.com](https://www.wordreference.com/) to conjugate verbs or translate a tricky word._
+
 ## Past Simple
 - - -
+
+This is the basic past tense. It's used whenever we want to talk about the past and there isn't a special situation that means we should use the past perfect, present perfect or past continuous. People love to talk about past memories and experiences, so this is a tense to master if you want to start having more conversations in English!
 
 ![past simple diagram](/uploads/blog/past-simple.png)
 
@@ -27,7 +31,7 @@ Use
 Structure
 
 :   regular: infinitive + ed
-:   many verbs are irregular! be/been, do/done
+:   many verbs are [irregular!](https://www.englisch-hilfen.de/en/grammar/unreg_verben1.htm) be/been, do/done
 
 Affirmative
 
@@ -65,6 +69,8 @@ _Practice Exercies_
 
 ## Past Continuous
 - - -
+
+Just like the simple past, this tense is very useful for conversation and sounding more natural in English.
 
 ![past continuous diagram](/uploads/blog/past-cont.png)
 
@@ -114,6 +120,8 @@ _Practice Exercises_
 ## Past Perfect
 - - -
 
+We don't use the past perfect all the time in English, but it is useful, and it sounds very good if you can use it correctly. Once you master the past simple, it's pretty easy to learn this one.
+
 ![past perfect diagram](/uploads/blog/past-perf.png)
 
 Signal Words
@@ -129,7 +137,7 @@ Use
 
 Structure
 
-:   had + past participle
+:   had + [past participle](https://www.englisch-hilfen.de/en/grammar/unreg_verben1.htm)
 
 Affirmative
 
@@ -156,6 +164,8 @@ _Practice Exercises_
 
 ## Past Perfect Continuous
 - - -
+
+This tense is a little less common, but native speakers still use it to describe the order or duration of events more precisely. This is a good one to understand to improve your reading and listening comprehension. Advanced students should learn how to use this tense correctly. 
 
 ![past perfect continuous diagram](/uploads/blog/past-pc.png)
 
