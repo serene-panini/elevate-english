@@ -23,6 +23,7 @@ Signal Words
 :   Opinions/thoughts about the future: I think, I believe
 
 
+
 Structure 1 Will-Future
 
 :   will + infinitive
@@ -46,6 +47,7 @@ Negative
 Question
 :   **Will** you **go** to the party with me next weekend?
 :   What **will** you **do** after you finish university?
+
 
 
 Structure 2 Going to-Future
