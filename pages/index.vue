@@ -1,9 +1,7 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <button
-        class="button is-primary"
-        @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
+      <button onclick="window.location='https://www.elevate-english.com/elevate-method';"
       >
         Get Started
       </button>
