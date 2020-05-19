@@ -4,7 +4,7 @@ subtitle: subtitle
 category:
   - Travel
 author: Anne G.
-date: 2020-04-19
+date: 2020-04-01T19:59:59.000Z
 featureImage: /uploads/blog/literature.jpg
 ---
 ### This is a template blog post
