@@ -23,10 +23,9 @@ Signal Words
 :   Opinions/thoughts about the future: I think, I believe
 
 
+### Structure 1 Will-Future
 
-Structure 1 Will-Future
-
-:   will + infinitive
+will + infinitive
 
 Use
 
@@ -50,9 +49,9 @@ Question
 
 
 
-Structure 2 Going to-Future
+### Structure 2 Going to-Future
 
-:   to be (am/are/is) + going to + infinitive
+to be (am/are/is) + going to + infinitive
 
 Use
 
