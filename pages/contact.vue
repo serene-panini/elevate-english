@@ -1,7 +1,7 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
+      title="Contact"
       subtitle="Elevate English is here to support you!"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
@@ -32,7 +32,7 @@
                   </strong>
                 </p>
                 <p>
-                  Please use this form to ask us any questions, or give us comments, feedback, or suggestions about our services. We want to hear from you! We may not reply right away, but we read every submission and will write you a reply as soon as we can.
+                  Questions? Suggestions? I want to hear from you! Please use this form to contact me. I might not reply right away, but I read every submission and will write you a reply as soon as possible.
                 </p>
               </div>
             </article>
