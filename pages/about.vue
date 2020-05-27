@@ -52,9 +52,6 @@
               <p class="title">
                 Podcast
               </p>
-              <p class="subtitle">
-                Interesting topics spoken at a slower speed, and full transcripts for each episode 
-              </p>
               <img src="../assets/uploads/podcast-tile.png" />
             </article>
           </div>
@@ -63,19 +60,13 @@
               <p class="title">
                 YouTube
               </p>
-              <p class="subtitle">
-                Language learning tips, idiomatic expressions, and other fun English content
-              </p>
               <img src="../assets/uploads/youtube-tile.png" />
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Blog
-              </p>
-              <p class="subtitle">
-                Read full length posts on interesting topics and language learning strategies
+                Study
               </p>
               <img src="../assets/uploads/blog-tile.png" />
             </article>
