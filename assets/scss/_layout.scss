@@ -47,8 +47,10 @@ dt {
 
 .fixed-container {
   position: fixed;
-  top: 0;
-  right: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
   display: block;
 }
 /* purgecss end ignore */
