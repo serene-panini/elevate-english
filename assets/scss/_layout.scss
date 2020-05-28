@@ -44,4 +44,11 @@ blockquote{
 dt {
   font-weight: bold;
 }
+
+.fixed-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  display: block;
+}
 /* purgecss end ignore */
