@@ -1,5 +1,5 @@
 <template>
-  <div id="about-page" class="page-wrapper about-page content-page">
+  <div id="podcast-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Podcast"
       image="/uploads/podcast.jpg"
