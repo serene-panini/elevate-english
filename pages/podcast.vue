@@ -25,6 +25,7 @@
             <a href="/transcript-01"> Episode 01 The Psychology of Language Learning </a>
           </p>
         </div>
+      </template>
 
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
