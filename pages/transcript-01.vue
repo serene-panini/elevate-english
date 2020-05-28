@@ -10,5 +10,6 @@
         </div>
       </template>
     </main-section>
+  </div>
 
 </template>
