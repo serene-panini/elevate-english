@@ -9,6 +9,9 @@
         <div class="content">
           <div id="buzzsprout-player-3941621"></div>
         <script src="https://www.buzzsprout.com/1122713/3941621-the-psychology-of-language-learning.js?container_id=buzzsprout-player-3941621&player=small" type="text/javascript" charset="utf-8"></script>
+        <h3>Elevate English Podcast</h3>
+          <p>
+            Visit the <a href="https://elevateenglishpodcast.buzzsprout.com/" target="_blank">podcast feed</a> to catch up on the most recent episodes!
           <p>
             I started this podcast for intermediate learners. There’s a lot of content out there to help beginners, and a ton of English media created for native speakers. 
           </p>
