@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Podcast"
-      image="/uploads/podcast.jpg"
+      image="/uploads/podcast2.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -12,15 +12,18 @@
             <strong>This podcast is for intermediate English learners who want something interesting to listen to.</strong>
           </p>
           <p>
-            I noticed that there are a lot of apps, books, and exercises for beginners, for people who are just starting to learn English. And for people who have an advanced level, they can read, watch, or listen to English content for native speakers, like American TV shows or British newspapers, because they can already understand it. 
+            I started this podcast for intermediate learners. There’s a lot of content out there to help beginners, and a ton of English media created for native speakers. 
           </p>
           <p>
-            But between those two groups, there are people who have an intermediate level who can’t always understand traditional English media. They find that native speakers talk too fast for example, or they use complicated words and expressions. This podcast will help you learn English through listening to lots of different interesting subjects. We won’t learn grammar rules or memorize lists of words. Instead, I will simply speak to you about things like travel, culture, history, and psychology, my favorite subject. 
+           Each week I discuss topics like psychology, travel, and history to help you improve your listening comprehension. Full transcripts (written versions) of each episode are available if you want to read along while I talk.
           </p>
           <p>
             I want your opinions! If there is a topic you want me to make an episode about, use the <a href="/contact"> Contact</a> form on my website to let me know. Put "Podcast Idea" as the subject tell me about your ideas.
           </p>
-         <quote-card />
+          <h3>Episode Transcripts</h3>
+           <p>
+            <a href="/transcript-01"> Episode 01 The Psychology of Language Learning </a>
+          </p>
         </div>
 
       <template v-slot:sidebar>
