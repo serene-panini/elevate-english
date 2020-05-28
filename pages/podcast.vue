@@ -7,10 +7,8 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Elevate English Podcast</h3>
-          <p>
-            <strong>This podcast is for intermediate English learners who want something interesting to listen to.</strong>
-          </p>
+          <div id="buzzsprout-player-3941621"></div>
+        <script src="https://www.buzzsprout.com/1122713/3941621-the-psychology-of-language-learning.js?container_id=buzzsprout-player-3941621&player=small" type="text/javascript" charset="utf-8"></script>
           <p>
             I started this podcast for intermediate learners. There’s a lot of content out there to help beginners, and a ton of English media created for native speakers. 
           </p>
