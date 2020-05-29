@@ -5,7 +5,7 @@ category:
   - Verb Tenses
 author: Anne G.
 date: 2020-06-14T19:59:59.000Z
-featureImage: /uploads/present.jpg
+featureImage: /uploads/present1.png
 ---
 
 _Tip: use [www.wordreference.com](https://www.wordreference.com/) to conjugate verbs or translate a tricky word._
