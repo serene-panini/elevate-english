@@ -13,7 +13,7 @@
           <p>
             Visit the <a href="https://elevateenglishpodcast.buzzsprout.com/" target="_blank">podcast feed</a> to catch up on the most recent episodes!
           <p>
-            I started this podcast for intermediate learners. There’s a lot of content out there to help beginners, and a ton of English media created for native speakers. 
+            I started this podcast for intermediate learners. There’s a lot of content out there to help beginners, and a ton of English media created for native speakers. If you find yourself in the middle, this podcast can help. 
           </p>
           <p>
            Each week I discuss topics like psychology, travel, and history to help you improve your listening comprehension. Full transcripts (written versions) of each episode are available if you want to read along while I talk.
