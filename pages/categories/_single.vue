@@ -1,10 +1,6 @@
 <template>
   <div id="category-page" class="page-wrapper category-page">
     <main-section theme="sidebar-right">
-          <site-hero
-          :title="$store.state.name"
-          :subtitle="$store.state.content"
-          />
       <template v-slot:default>
         <!-- Posts in Category -->
         <posts-grid :category="[$store.state.name]" :per-row="2" />
