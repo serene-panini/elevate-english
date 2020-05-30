@@ -1,4 +1,4 @@
 ---
 name: Language Learning Tips
-image: /learning.jpg
+image: /learning.png
 ---

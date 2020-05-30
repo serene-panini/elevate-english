@@ -1,4 +1,4 @@
 ---
 name: Verb Tenses
-image: /tense.jpg
+image: /tense.png
 ---
