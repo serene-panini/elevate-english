@@ -25,6 +25,10 @@
            <p>
             <a href="/transcript-01"> Episode 01 The Psychology of Language Learning </a>
           </p>
+          <p>
+            <a href="/transcript-blue-moon"> Once in a Blue Moon </a>
+          </p>
+          
         </div>
       </template>
 
