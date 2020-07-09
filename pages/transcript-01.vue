@@ -9,7 +9,7 @@
             </div>
           <h3>Episode 01 Transcript</h3>
           <p>
-            0:00 Hey everyone! It’s Anne from Elevate English. Thank you so much for being here today for my first episode!
+            00:00 Hey everyone! It’s Anne from Elevate English. Thank you so much for being here today for my first episode!
           </p>
           <p>
             00:10 I want to help people improve their English in a fun, more natural way. 
