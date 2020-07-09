@@ -28,6 +28,9 @@
           <p>
             <a href="/transcript-blue-moon"> Once in a Blue Moon </a>
           </p>
+          <p>
+          <a href="/transcript-02"> Episode 02 Stoicism </a>
+          </p>
           
         </div>
       </template>
