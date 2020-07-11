@@ -31,6 +31,9 @@
           <p>
           <a href="/transcript-02"> Episode 02 Stoicism </a>
           </p>
+           <p>
+          <a href="/transcript-bush"> Beat Around the Bush </a>
+          </p>
           
         </div>
       </template>
